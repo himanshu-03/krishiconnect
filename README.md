@@ -1,4 +1,4 @@
-# KrishiConnect  
+# KrishiConnect 2.0
 ## Revolutionizing Agriculture Consumer Industry
 ## 👇About KrishiConnect
 
